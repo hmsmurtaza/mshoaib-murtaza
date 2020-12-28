@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an Android App
+- 🔭 I’m currently working on an Idea
 - 🌱 I’m currently learning Android Vector Drawables
+- 📫 s.murtaza1@gmail.com
