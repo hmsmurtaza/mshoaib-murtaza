@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an Idea
 - 🌱 I’m currently learning Android Vector Drawables
+- 🎨 I'm currently learning Jetpack Compose
 - 📫 s.murtaza1@gmail.com
